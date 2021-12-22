@@ -72,6 +72,6 @@ In this final topic you will do your own machine learning project: collecting a 
 #### ***Kudos!!!***
 
 Warm Regards, \
-Piyush Sambhi \
-Email: piyush.sambhi07@icloud.com \
+Monish Ghosh\
+Email: monishghosh7@gmail.com \
 Git URL: https://github.com/sambhipiyush
